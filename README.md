@@ -10,7 +10,7 @@
 <body>
 
     <div class="contenedor">
-        <p>¿Quieres ser mi Novia?</p>
+        <p>¿Puedo ir a tu casa?</p>
         <a href="AMM.html"><button> SI</button></a>
         <button id="noBtn">No</button>
     </div>
